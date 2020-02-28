@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733396223111",
+    "firebase_url": "https://currency-recognition-6a4b1.firebaseio.com",
+    "project_id": "currency-recognition-6a4b1",
+    "storage_bucket": "currency-recognition-6a4b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733396223111:android:780fdc0f0d0e7a4288a422",
+        "android_client_info": {
+          "package_name": "com.ghanacurrency.detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733396223111-8phciksnn55p5br6sagi9hraaq3ef5mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ghanacurrency.detector",
+            "certificate_hash": "7b5a09fe324714fe6bc7febc75b6447d877656be"
+          }
+        },
+        {
+          "client_id": "733396223111-qm4ag8uvq8u6u7u3dprjb9l9b6fn548e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCFPK2Dkv1MoqGqSK8RnHbq0kIwGCxdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733396223111-qm4ag8uvq8u6u7u3dprjb9l9b6fn548e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

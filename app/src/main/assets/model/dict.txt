@@ -1,0 +1,8 @@
+Hundred_cedis
+One_cedi
+Two_cedis
+Fifty_cedis
+Five_cedis
+Twenty_cedis
+Ten_cedis
+Two_hundred_cedis
